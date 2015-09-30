@@ -1,0 +1,6 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 資治通鑑目録
+#+DATE: 2015-09-23 10:02:12
+#+PROPERTY: JUAN 24
+<md:KR2b0010_WYG_005-1a>¶<pb:KR2b0010_SBCK_006-35a>
+
